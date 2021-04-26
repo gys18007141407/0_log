@@ -1,0 +1,2000 @@
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544571836160 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544571836160 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544571836160 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544571836160 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544563443456 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544563443456 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544563443456 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544563443456 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544580228864 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544580228864 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544580228864 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544580228864 write log ERROR  ##LogFileTest.cpp:36
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544588621568 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544588621568 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544588621568 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544588621568 write log ERROR  ##LogFileTest.cpp:36
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36
+[DEBUG] operator() 140544597014272 write log DEBUG  ##LogFileTest.cpp:33
+[INFO] 140544597014272 write log INFO  ##LogFileTest.cpp:34
+[WARN] 140544597014272 write log WARN  ##LogFileTest.cpp:35
+[ERROR] 140544597014272 write log ERROR  ##LogFileTest.cpp:36

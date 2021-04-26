@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gys/cpp/designPattern/singleton/LogTest/AsynLogTest.cpp
+logBase/AsynLog.h
+/home/gys/cpp/designPattern/singleton/LogTest/logBase/AsynLog.h
+logBase/Logging.h
+/home/gys/cpp/designPattern/singleton/LogTest/logBase/Logging.h
+mutex
+-
+thread
+-
+vector
+-
+unistd.h
+-
+
