@@ -97,8 +97,7 @@ std::string LogFile::getLogFileName(const std::string& basename, std::time_t* no
     int len;
     struct tm nowtime;
     *now = ::time(nullptr);
-
-    gmtime_r(now, &nowtime);
+    localtime_r(now, &nowtime);
     strftime(timebuf, 32, ".%Y-%m-%d.%H-%M-%S.log",&nowtime);
     filename += timebuf;
 
