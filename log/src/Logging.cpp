@@ -57,7 +57,7 @@ Logging::Logging(SourceFile file, std::size_t line, Logging::LogLevel level):_im
 }
 
 Logging::Logging(SourceFile file, std::size_t line,  Logging::LogLevel level, const char* func):_impl(level, 0, file, line){
-    _impl._stream << strLevel[level] << "function name = \"" << func << ' ';
+    _impl._stream << strLevel[level] << "function name = \"" << func << "\" ";
 }
 
 Logging::Logging(SourceFile file, std::size_t line, bool abort):_impl(abort?FATAL:ERROR, errno, file, line){
